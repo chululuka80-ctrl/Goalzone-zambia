@@ -1,0 +1,11 @@
+{
+  "name": "GoalZone Zambia",
+  "short_name": "GoalZone",
+  "description": "Football fixtures, scores, highlights and official viewing links.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071426",
+  "theme_color": "#071426",
+  "icons": []
+}
